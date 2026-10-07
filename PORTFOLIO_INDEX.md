@@ -9,7 +9,7 @@ Six AI-assisted projects with runnable demos, tests and documented engineering d
 | InvoiceFlow | Invoice calculations, client management, PDFs and exports | [Open](https://invoiceflow-dina19.vercel.app) | [Source and tests](https://github.com/alexdina712-dev/invoiceflow) |
 | DataForge | Python, FastAPI, pandas, data cleaning and analysis | [Open](https://dataforge-dina19.vercel.app) | [Source and tests](https://github.com/alexdina712-dev/dataforge) |
 | QA Sentinel | UI/API automation, negative tests, regression and CI | [Open](https://qa-sentinel-dina19.vercel.app) | [Source and tests](https://github.com/alexdina712-dev/qa-sentinel) |
-| Signal Lost | TypeScript, Phaser, game state, collision, energy puzzles and local saves | See Signal Lost demo repository About link | [Demo, case study and tests](https://github.com/alexdina712-dev/signal-lost-demo) |
+| Signal Lost | TypeScript, Phaser, game state, collision, energy puzzles and local saves | [Play demo](https://signal-lost-demo.vercel.app) | [Demo, case study and tests](https://github.com/alexdina712-dev/signal-lost-demo) |
 
 ## Reviewing a project
 

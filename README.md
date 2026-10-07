@@ -6,7 +6,7 @@ This public repository contains the **compiled demo**, its case study, screensho
 
 ## Play
 
-Open the live demo linked in this repository's About section. No account or download is needed. WASD/arrows move, E interacts, Q recalls energy, Space/click fires and Shift dashes. Use the visible buttons on touchscreens. Settings include sound, reduced motion and assist mode. Saves stay in this browser.
+Open the [live demo](https://signal-lost-demo.vercel.app). No account or download is needed. WASD/arrows move, E interacts, Q recalls energy, Space/click fires and Shift dashes. Use the visible buttons on touchscreens. Settings include sound, reduced motion and assist mode. Saves stay in this browser.
 
 ## Engineering
 
@@ -26,3 +26,5 @@ Serve this directory with any static HTTP server. For example, with Python insta
 ## Distribution and limits
 
 Original material is reserved for the owner. Playing this demo does not grant commercial reuse rights. Dependency MIT notices remain bundled. The private game is not a Steam release; commercial/store work continues separately. Automated mobile tests use emulation, not physical-device certification.
+
+[All six portfolio projects](PORTFOLIO_INDEX.md) · [CI tests](https://github.com/alexdina712-dev/signal-lost-demo/actions)
