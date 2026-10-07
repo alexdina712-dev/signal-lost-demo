@@ -1,0 +1,14 @@
+{
+  "name": "signal-lost-portfolio-demo",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0"
+  },
+  "packageManager": "pnpm@11.19.0"
+}

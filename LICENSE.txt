@@ -1,0 +1,16 @@
+Signal Lost — original project material
+Copyright (c) 2026 Dina Stefan Alexandru. All rights reserved to the extent applicable.
+
+The original project source, level designs, geometric artwork, text and synthesized
+sound definitions are reserved for the project owner. No open-source license or
+permission to redistribute, sublicense or commercially exploit those materials is
+granted by this repository or by access to its public demo.
+
+Visitors may play the publicly hosted demo for personal evaluation. This does not
+grant rights to the private full game. Separately licensed dependencies retain
+their own licenses. See public/THIRD_PARTY_NOTICES.txt for the MIT notices for
+Phaser and EventEmitter3. Nothing in this file overrides those licenses.
+
+AI-assisted creation does not establish that every element is independently
+copyrightable or exclusive. This notice records the intended licensing policy;
+it is not a legal opinion or a guarantee of exclusive rights.

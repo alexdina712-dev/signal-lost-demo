@@ -1,0 +1,12 @@
+.git
+node_modules
+tests
+.github
+playwright-report
+test-results
+package-lock.json
+package.json
+playwright.config.ts
+serve.mjs
+pnpm-lock.yaml
+playwright-report-demo
